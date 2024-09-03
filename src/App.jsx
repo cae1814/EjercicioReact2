@@ -8,7 +8,7 @@ export const App = () => {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<EjercicioReactJs/>}  />
-          <Route path='/ejercicioReactJS2' element={<EjercicioReactJs2/>}  />
+          <Route path='/ejercicioReactJS2' element={<EjercicioReactJs2/>} />
         </Routes>
       </BrowserRouter>
     </>

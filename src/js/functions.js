@@ -13,5 +13,6 @@ export function alerta(msg, icon) {
 
     function onfocus() {
         document.getElementById('nota1').focus();
+        
     }
 }
